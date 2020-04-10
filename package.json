@@ -1,0 +1,14 @@
+{
+  "name": "assgn01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greet.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.3.0"
+  }
+}
